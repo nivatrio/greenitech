@@ -1,5 +1,6 @@
 {
   "pins": [17,16],
+  "ledpins":21,
   "customername":"Greenitech",
   "ftmodbus": "y",
   "ftjson": "n",
