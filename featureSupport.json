@@ -4,7 +4,7 @@
   "customername":"Greenitech",
   "ftmodbus": "y",
   "ftjson": "n",
-  "ftzed": "y",
+  "ftzed": "r",
   "interval": 10,
   "ftmqttcontrol": "n",
   "ftbtcontrol": "n"
